@@ -1,0 +1,20 @@
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\bin\Debug\Ebay String Generator.exe.config
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\bin\Debug\Ebay String Generator.exe
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\bin\Debug\Ebay String Generator.pdb
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.csprojAssemblyReference.cache
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay_String_Generator.Properties.Resources.resources
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.csproj.GenerateResource.cache
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.exe
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.pdb
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.csprojAssemblyReference.cache
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay_String_Generator.Form1.resources
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay_String_Generator.Properties.Resources.resources
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.csproj.GenerateResource.cache
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.exe
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay String Generator.pdb
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\bin\Debug\Ebay String Generator.exe.config
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\bin\Debug\Ebay String Generator.exe
+C:\Users\zacha\Desktop\Ebay String Generator\Ebay String Generator\bin\Debug\Ebay String Generator.pdb
+C:\Users\zacha\source\repos\Ebay String Generator\Ebay String Generator\obj\Debug\Ebay_String_Generator.Title_Output.resources
